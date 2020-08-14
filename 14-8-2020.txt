@@ -1,0 +1,7 @@
+1. Codeforces - 3 question (div_3_661)
+    Q1.) gifts fixing
+    Q2.) Boats Competition
+    Q3.) Binary String to subsequences.
+
+
+2. Json file handling.
