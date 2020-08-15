@@ -1,0 +1,9 @@
+tcs codevita questions 3 question
+1. corona virus
+2. 7*7
+3. path in the graph
+
+pending interview_prep1
+1. unique3 
+2. queen3
+
