@@ -1,0 +1,10 @@
+1 . solved Interview_prep1 - 2 questions
+        a.) queen3 - find number of ways to place the queen on 8*8 board with obstacles.
+        b.) unique3 - find the largest unique subarray.
+2 . D question of div_3_661 round codeforces.
+
+3. Did hackerrank basic cerfication - 2 questions.
+
+4. codeforces global round_10 - 2 questions.
+
+total - 7 questions only (improve, do more)
