@@ -1,0 +1,17 @@
+1.From goldman sachs set geeksforgeeks - solved 
+    a.) find the first non repeating character(2 methods)
+        i.) One storing count and teversing twice in the length of string.
+        ii.) Travered once in the string and stored the first occcurence of each char 
+
+            #though above two approaches takes the same time complexity bt if the input string would be very long then time taken wll be more.
+
+2. Longest Decreasing subsequence 
+    a.) Recursion approach (time complexity - 2^n)
+    b.) DP (time complexity - n^2)
+
+    Pending - nlogn approach, iterative 2^n;
+
+3. Intermediate hackerrank certification.
+    a.) string based question
+    b.) largest rectangle formed by making partitions vertical and horizonntal(Advanced binary search)---
+        Alternate question Link - On spoj(Ada and field).
