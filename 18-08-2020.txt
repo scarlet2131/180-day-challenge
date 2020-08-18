@@ -8,3 +8,6 @@ Recursion day 1
     a.) vertical and horizontal
     b.) How to build a distributed System
     c.) What is load Balancing.
+    d.) Diffrence between centralized and decentralized and distributed System
+
+    Pending - Read (d) in more detail.
