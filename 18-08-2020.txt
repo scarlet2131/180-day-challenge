@@ -1,0 +1,10 @@
+Recursion day 1
+1.) leetcode Recursion
+    a.) Factor generate
+    b.) Palindrome Permutation I
+    c.) Palindrome Permutation II
+
+2.) System Design 
+    a.) vertical and horizontal
+    b.) How to build a distributed System
+    c.) What is load Balancing.
