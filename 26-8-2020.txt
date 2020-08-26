@@ -1,0 +1,9 @@
+1. Google geeksforgeeks past year:
+    find the diffrent bits  
+        (brute force,Bit manupulation)
+2. Contest leetcode- phonic interview 
+        a.) confusing number
+        b.) shortest way to form string: Two pointer if  char at the pointer of main string and formed is equl move both else the original and the number times we traversed the orignal string is the ans;
+3.interview prep 3: Recursion
+    a.) frog color (rat in a maze)
+    b.) optimal time(binary search)
