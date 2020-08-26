@@ -7,3 +7,4 @@
 3.interview prep 3: Recursion
     a.) frog color (rat in a maze)
     b.) optimal time(binary search)
+    c.) soduku 13 (Pending)
