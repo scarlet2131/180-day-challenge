@@ -1,0 +1,6 @@
+1. sodukusolver -backtarcking
+2. Graph day-leetcode
+	1. rotting oranges
+	2. all nodes k distance apart
+	3. minimum knight moves(pending)
+	4.perfect square(pending)
