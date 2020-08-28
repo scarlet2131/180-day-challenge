@@ -1,0 +1,6 @@
+1. Graph leetcode google
+    a.) All Nodes Distance K in Binary Tree (BFS and store parent child method)
+    b.) Longest Word in Dictionary through Deleting (two pointer)
+    c.) Minimum Knight Moves (bfs soln timeout dp)
+    d.) Subarray Sum Equals K (hash map)
+    e.) Perfect Squares (backtacking soln timeout try dp)
