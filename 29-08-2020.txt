@@ -1,0 +1,2 @@
+1. graph valid tree
+2. Read graph theory and watched lectures 
