@@ -1,0 +1,3 @@
+leetcode- course schedule (pending)
+Graph to tree - (using bfs and dsu)
+codechef contest - 7 questions 
