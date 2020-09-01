@@ -1,0 +1,8 @@
+1. graph questions
+ leetcode - reconstruct iternary (pending)
+ Cses- 4 questions
+  a.) counting room (bfs)
+  b.) build teamms(bipartite graph)
+  c.) mesage routes(bfs)
+  d.) building roads
+
