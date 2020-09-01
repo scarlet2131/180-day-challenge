@@ -3,6 +3,6 @@
  Cses- 4 questions
   a.) counting room (bfs)
   b.) build teamms(bipartite graph)
-  c.) mesage routes(bfs)
+  c.) mesage routes(dfs timeout)(dijistra use pending)
   d.) building roads
 
