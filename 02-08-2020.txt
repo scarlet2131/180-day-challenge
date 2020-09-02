@@ -1,0 +1,4 @@
+1. message routing (modified bfs )
+2 . biulding roads(bfs);
+3 Ta hiting question- no more cycle(DSU)
+4. commutable path (min spnnign tree)pending
