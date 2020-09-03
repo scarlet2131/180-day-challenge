@@ -1,0 +1,6 @@
+    1. Commutable Islands
+        Methods: sort then apply these
+            a.) (krushkal - find min and check cycle using using bfs(any node should have one parent))
+            b.) Use DSU ,if any two node in one componenet then dont add else add(it means if they exist in same component then they already have a path )
+    2. Python Assignment of Data Analytics-zip,lambda,map,enumerate,json,numpy
+    3. Dp - Dice combination (CSES) - State dp time complexity(6*n) space complexity(o(n)).
