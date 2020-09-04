@@ -1,0 +1,6 @@
+1. Research project work
+    a.) Qos Prediction - DBSCAN algo implemented
+2. Dp question(Scaler)- state Dp
+    a.) Stairs - min step to reach nth stair
+    b.) longest Bitonic sequence - Use LIS AND LDS dp array to find the longest lbs
+    c.) Min jumps array - Similar state Dp
